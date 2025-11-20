@@ -21,10 +21,15 @@ font-family: Monospace;
 
 }
 
+a { 
+font-family: Monospace;
+} 
+
 a:hover {
   background-color: pink;
   color : red;
   font-size: 18px;
+  font-family: Impacted;
 }
 
 img {

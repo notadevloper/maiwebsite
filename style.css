@@ -30,6 +30,8 @@ a:hover {
   color : red;
   font-size: 18px;
   font-family: Impacted;
+  text-shadow: 0 0 3px #ff0000;
+ 
 }
 
 img {
